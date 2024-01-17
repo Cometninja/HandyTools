@@ -1,0 +1,12 @@
+*.hex
+*.out
+*.bin
+*.swo
+*.swn
+*.swp
+*.o
+*.dmp
+/documentaion/*
+
+
+
